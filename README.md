@@ -3,7 +3,7 @@ Breach RSS Feed Reader
 
 RSS Reader Module
 
-![Alt text](http://i.imgur.com/HZQvJll.png)
+![Alt text](http://i.imgur.com/BGQQIs2.png)
 
 
 
