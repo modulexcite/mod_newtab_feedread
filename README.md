@@ -1,7 +1,7 @@
 Breach RSS Feed Reader
 =========
 
-RSS Reader Module
+RSS Reader Module (Fork from Jelly RSS Reader)
 
 ![Alt text](http://i.imgur.com/BGQQIs2.png)
 
