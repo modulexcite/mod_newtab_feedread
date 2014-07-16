@@ -1,6 +1,6 @@
 {
   "name": "mod_newtab_feedread",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "./index.js",
   "dependencies": {
     "breach_module": "0.3.x",

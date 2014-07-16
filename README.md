@@ -10,14 +10,14 @@ RSS Reader Module (Fork from Jelly RSS Reader)
 Version
 ----
 
-1.0.0
+1.1.0
 
 
 ToDo
 -----
 
  * Adding GoogleAPKey
- 
+
 
 
 Installation
